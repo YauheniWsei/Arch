@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test3Arch", "Test3Arch\Test3Arch.csproj", "{A464F7E7-9048-4904-925A-4F0094469915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A464F7E7-9048-4904-925A-4F0094469915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A464F7E7-9048-4904-925A-4F0094469915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A464F7E7-9048-4904-925A-4F0094469915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A464F7E7-9048-4904-925A-4F0094469915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B0864B1-1D38-4CB9-B1BB-1D73CDDA1BBE}
+	EndGlobalSection
+EndGlobal
