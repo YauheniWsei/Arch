@@ -10,12 +10,16 @@ This is a simple project that demonstrates basic functionalities.
 5. Run the project and explore its features.
 
    Features
+   
 _> Allows users to perform basic arithmetic operations.
+
 _> Provides a user-friendly interface for easy interaction.
+
 _> Supports conversion between different number systems.
 
 
     Usage
+   
 Launch the application.
 Enter values and select operations.
 Click the "Calculate" button to see the result.
