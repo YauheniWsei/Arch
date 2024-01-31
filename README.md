@@ -1,16 +1,20 @@
 # CalcIT
 This is a simple project that demonstrates basic functionalities.
 
-    Installation
+ Installation
+ 
 1. Clone the repository to your local machine using git clone.
 2. Navigate to the project directory.
 3. Open the solution file in your preferred IDE.
 4. Build the project to ensure all dependencies are resolved.
 5. Run the project and explore its features.
-    Features
+
+   Features
 1. Allows users to perform basic arithmetic operations.
 2. Provides a user-friendly interface for easy interaction.
 3. Supports conversion between different number systems.
+
+
     Usage
 Launch the application.
 Enter values and select operations.
