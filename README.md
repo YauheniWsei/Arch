@@ -10,9 +10,9 @@ This is a simple project that demonstrates basic functionalities.
 5. Run the project and explore its features.
 
    Features
-1. Allows users to perform basic arithmetic operations.
-2. Provides a user-friendly interface for easy interaction.
-3. Supports conversion between different number systems.
+_> Allows users to perform basic arithmetic operations.
+_> Provides a user-friendly interface for easy interaction.
+_> Supports conversion between different number systems.
 
 
     Usage
